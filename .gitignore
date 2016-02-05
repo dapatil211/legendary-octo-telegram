@@ -60,3 +60,14 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#Mac files
+.DS_Store
+
+#Vim swap files
+*.sw*
+
+#Default files
+sampleSubmission.csv
+test.csv
+train.csv
